@@ -10,7 +10,7 @@ class APISettings(BaseSettings):
 
     ########################     Global information    ########################
     
-    title: str = "euromillion-api"
+    title: str = "euromillions-api"
     contacts: str = "moncoutiej@cy-tech.fr, urgellbapt@cy-tech.fr"
 
     docs_url: str = "/docs"
